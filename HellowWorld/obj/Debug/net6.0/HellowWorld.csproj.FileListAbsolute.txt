@@ -1,0 +1,14 @@
+C:\Users\B_HAF\Desktop\C#Course\Simplon C#\Brief0\HellowWorld\HellowWorld\bin\Debug\net6.0\HellowWorld.exe
+C:\Users\B_HAF\Desktop\C#Course\Simplon C#\Brief0\HellowWorld\HellowWorld\bin\Debug\net6.0\HellowWorld.deps.json
+C:\Users\B_HAF\Desktop\C#Course\Simplon C#\Brief0\HellowWorld\HellowWorld\bin\Debug\net6.0\HellowWorld.runtimeconfig.json
+C:\Users\B_HAF\Desktop\C#Course\Simplon C#\Brief0\HellowWorld\HellowWorld\bin\Debug\net6.0\HellowWorld.dll
+C:\Users\B_HAF\Desktop\C#Course\Simplon C#\Brief0\HellowWorld\HellowWorld\bin\Debug\net6.0\HellowWorld.pdb
+C:\Users\B_HAF\Desktop\C#Course\Simplon C#\Brief0\HellowWorld\HellowWorld\obj\Debug\net6.0\HellowWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B_HAF\Desktop\C#Course\Simplon C#\Brief0\HellowWorld\HellowWorld\obj\Debug\net6.0\HellowWorld.AssemblyInfoInputs.cache
+C:\Users\B_HAF\Desktop\C#Course\Simplon C#\Brief0\HellowWorld\HellowWorld\obj\Debug\net6.0\HellowWorld.AssemblyInfo.cs
+C:\Users\B_HAF\Desktop\C#Course\Simplon C#\Brief0\HellowWorld\HellowWorld\obj\Debug\net6.0\HellowWorld.csproj.CoreCompileInputs.cache
+C:\Users\B_HAF\Desktop\C#Course\Simplon C#\Brief0\HellowWorld\HellowWorld\obj\Debug\net6.0\HellowWorld.dll
+C:\Users\B_HAF\Desktop\C#Course\Simplon C#\Brief0\HellowWorld\HellowWorld\obj\Debug\net6.0\refint\HellowWorld.dll
+C:\Users\B_HAF\Desktop\C#Course\Simplon C#\Brief0\HellowWorld\HellowWorld\obj\Debug\net6.0\HellowWorld.pdb
+C:\Users\B_HAF\Desktop\C#Course\Simplon C#\Brief0\HellowWorld\HellowWorld\obj\Debug\net6.0\HellowWorld.genruntimeconfig.cache
+C:\Users\B_HAF\Desktop\C#Course\Simplon C#\Brief0\HellowWorld\HellowWorld\obj\Debug\net6.0\ref\HellowWorld.dll
